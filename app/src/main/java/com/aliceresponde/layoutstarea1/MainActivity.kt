@@ -19,9 +19,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         setContentView(binding.root)
     }
 
-    override fun onClick(v: View?) {
-        val a = 5
-        when (v?.id) {
+    override fun onClick(v: View) {
+        when (v.id) {
             R.id.dropBoxBtn -> {
                 startActivity(Intent(this, DropBoxActivity::class.java))
             }

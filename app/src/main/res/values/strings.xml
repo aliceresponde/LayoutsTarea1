@@ -15,4 +15,7 @@
     <string name="email_pattern">[a-zA-Z0-9._-]+@[a-z]+.[a-z]+</string>
     <string name="i_m_allready_a_dropbox_user">I\'m allready a DropBox User</string>
     <string name="i_m_new_to_dropbox">I\'m new to DropBox</string>
+    <string name="tap_to_sign_in"><u>Tap to Sign in</u></string>
+    <string name="swipe_to_contunue">Swipe to contunue...</string>
+    <string name="welcome_to_nflipboard">Welcome to \nFlipboard</string>
 </resources>
