@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LayoutsTarea1</string>
+    <string name="dropbox">DropBox</string>
+    <string name="flipboard">FlipBoard</string>
+    <string name="name">Name</string>
+    <string name="famous">Famous</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="valid_form">Form is Valid</string>
+    <string name="no_valid_email">Email nor  valid or empty</string>
+    <string name="empty_field">Empty field</string>
+    <string name="required_3_chars">At least 3  characters</string>
+    <string name="email_pattern">[a-zA-Z0-9._-]+@[a-z]+.[a-z]+</string>
+</resources>
